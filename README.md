@@ -1,17 +1,32 @@
-# Olá👋
+# Oiii! Eu sou a Maria Luiza
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Bem++Vindos+ao+meu+Perfil+" alt="Typing SVG" /></a>
 
-# Sobre Mim
-Meu nome é Maria Luiza Machado, sou uma jovem de 24 anos residente em João Pessoa, Paraíba. Possuo uma formação em Direito e estou atualmente cursando Ciência da Computação, visando me tornar uma futura Engenheira Software. Possuo conhecimento em Java e Spring, e também tenho habilidades Java Script, Type Script, Python, React.js, Node.js, Html, Css, Flutter, Linux, MySQL, SQL, PHP, Oracle,Inteligência Artificial, além de desenvolvimento colaborativo com cursos de Git e Github. Meu nível de inglês é intermediário, aprimorado através de um curso na Udemy. Sou dedicada, colaborativa e estou determinada a crescer profissionalmente em um ambiente estimulante e dinâmico. Estou ansiosa para enfrentar novos desafios e contribuir para o progresso tecnológico.
+## Sobre Mim
+
+Sou programadora frontend com uma trajetória diversificada, que inclui experiência em suporte de tecnologia e no setor jurídico. Recentemente, realizei uma transição de carreira para o desenvolvimento frontend, onde venho aprimorando minhas habilidades de forma autodidata. Meu portfólio abrange HTML, CSS, JavaScript, React, Java e Spring Boot. Busco constantemente novos desafios e oportunidades para aplicar e expandir meu conhecimento técnico.
 
 ## Me Encontre
 
-<div>
-<a href = "mailto:mariasouza.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maria-luiza-machado-costa-de-souza-251877182/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>  
+  <a href="https://www.instagram.com/malumcsouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariasouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-luiza-machado-costa-de-souza-251877182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img loadnig="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Maria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Maria-Git" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Maria-Java" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="Maria-Spring" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Maria-MySQL" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
