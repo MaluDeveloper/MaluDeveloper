@@ -4,14 +4,20 @@
 
 ## Sobre Mim
 
-Sou programadora frontend com uma trajetória diversificada, que inclui experiência em suporte de tecnologia e no setor jurídico. Recentemente, realizei uma transição de carreira para o desenvolvimento frontend, onde venho aprimorando minhas habilidades de forma autodidata. Meu portfólio abrange HTML, CSS, JavaScript, React, Java e Spring Boot. Busco constantemente novos desafios e oportunidades para aplicar e expandir meu conhecimento técnico.
+Sou Software Engineer, Pesquisadora, Bacharel em Direito e graduanda do 8º período de Ciência da Computação. Atuo no desenvolvimento de aplicações web com foco em arquitetura, organização de código, escalabilidade e resolução de problemas reais, sempre buscando soluções bem estruturadas e sustentáveis.
+
+Tenho interesse em pesquisa aplicada e Inteligência Artificial, explorando como essas tecnologias podem ser usadas de forma responsável, prática e com impacto real. Gosto de entender o funcionamento dos sistemas, avaliar trade-offs técnicos e aplicar conceitos teóricos em soluções concretas.
+
+Trabalho como freelancer, desenvolvendo sistemas e aplicações sob demanda, e já atuei auxiliando no suporte técnico de TI, experiência que fortaleceu minha visão prática, capacidade de diagnóstico e comunicação com usuários.
+
+Sou proativa, comunicativa e orientada ao aprendizado contínuo. Além do desenvolvimento técnico, participo de iniciativas voltadas à inclusão digital, segurança da informação e ao incentivo à participação feminina na tecnologia, conectando tecnologia, pesquisa e responsabilidade social.
 
 ## Me Encontre
 
 <div>  
-  <a href="https://www.instagram.com/malumcsouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marialuiza.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariasouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-luiza-machado-costa-de-souza-251877182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a href="https://www.linkedin.com/in/maria-luiza-mcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 ## Ferramentas e Tecnologias
