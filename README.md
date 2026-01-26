@@ -1,4 +1,4 @@
-# Oiii! Eu sou a Maria Luiza
+# Eu sou a Maria Luiza
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Bem++Vindos+ao+meu+Perfil+" alt="Typing SVG" /></a>
 
