@@ -2,9 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Bem++Vindos+ao+meu+Perfil+" alt="Typing SVG" /></a>
 
-## Sobre Mim
+## Sobre mim | Sobre mí
 
-Desenvolvedora Full Stack Júnior com experiência na criação de aplicações web, utilizando React, Next.js e Java. Atuo com integração de APIs, banco de dados e uso de IA no desenvolvimento, incluindo práticas de vibe coding e automação, com foco em entregas rápidas e funcionais.
+🇧🇷 Desenvolvedora Full Stack Júnior com experiência na criação de aplicações web utilizando React, Next.js e Java. Atuo com integração de APIs, banco de dados e uso de inteligência artificial no desenvolvimento, incluindo automação de processos, com foco em soluções rápidas, funcionais e escaláveis.
+
+🇪🇸 Desarrolladora Full Stack Junior con experiencia en el desarrollo de aplicaciones web utilizando React, Next.js y Java. Trabajo con integración de APIs, bases de datos y uso de inteligencia artificial en el desarrollo, incluyendo automatización de procesos, con enfoque en soluciones rápidas, funcionales y escalables.
 
 ## Me Encontre
 
@@ -21,11 +23,7 @@ Desenvolvedora Full Stack Júnior com experiência na criação de aplicações 
   <img align="center" alt="Maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Git" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Maria-Java" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="Maria-Spring" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Maria-MySQL" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
+  <img align="center" alt="Maria-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Maria-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="Maria-Spring" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Maria-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
