@@ -30,5 +30,5 @@
 ## 🛠️ Ferramentas e Tecnologias | Herramientas y Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,java,nodejs,postgres,mysql,git,github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,java,nodejs,postgres,mysql,git,github,tailwind,html,css,spring,supabase,n8n" />
 </p>
