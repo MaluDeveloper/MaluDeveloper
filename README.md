@@ -8,9 +8,9 @@
 
 ## 👩‍💻 Sobre mim | Sobre mí
 
-🇧🇷 Desenvolvedora Full Stack Júnior com experiência na criação de aplicações web utilizando React, Next.js e Java. Atuo com integração de APIs, banco de dados e uso de inteligência artificial no desenvolvimento, incluindo automação de processos, com foco em soluções rápidas, funcionais e escaláveis.
+🇧🇷 Engenheira de Software com experiência na criação de aplicações web utilizando Java & Spring Boot, React e AI. Atuo com integração de APIs, banco de dados e uso de inteligência artificial no desenvolvimento, incluindo automação de processos, com foco em soluções rápidas, funcionais e escaláveis.
 
-🇪🇸 Desarrolladora Full Stack Junior con experiencia en el desarrollo de aplicaciones web utilizando React, Next.js y Java. Trabajo con integración de APIs, bases de datos y uso de inteligencia artificial en el desarrollo, incluyendo automatización de procesos, con enfoque en soluciones rápidas, funcionales y escalables.
+🇪🇸 Ingeniero de Software con experiencia en el desarrollo de aplicaciones web utilizando Java & Spring Boot, React e AI. Trabajo con integración de APIs, bases de datos y uso de inteligencia artificial en el desarrollo, incluyendo automatización de procesos, con enfoque en soluciones rápidas, funcionales y escalables.
 
 ---
 
